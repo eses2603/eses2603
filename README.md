@@ -13,7 +13,7 @@
 
 💬 I enjoy discussing education and software development topics, exchanging ideas, and collaborating on new projects. Feel free to reach out to me!
 
-📫 You can contact me via [Email address] or through my [Social media profile].
+📫 You can contact me via [erdemsoylu2603@gmail.com] or through my [Social media profile].
 
 🚀 I'm here to share my passion for coding and technology. Together, we can achieve great things! 👨‍💻
 
