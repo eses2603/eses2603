@@ -1,19 +1,71 @@
-👋 Hello! I'm a Front-End Developer, React Developer, and Web Software Developer. I'm also a Computer Teacher and hold a Master's degree in Computer Science.
+# 👋 Hello, I'm a Front-End Developer
 
-🌐 I'm deeply passionate about the web and continuously strive to stay updated on the latest developments and innovations. I love working on open-source projects and contributing to the community.
+I'm a **Front-End Developer** passionate about building modern, responsive and user-friendly web applications.
 
-🔧 Some projects I'm currently working on:
-- [Project 1]: [Tour Website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers...]
-- [Project 2]: [Movie Website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers...]
-- [Project 3]: [Linkedin Clone Website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers...]
+I enjoy transforming ideas into **clean, interactive interfaces** and continuously improving my skills by building projects and learning new technologies.
 
-🌱 Currently, I'm learning:
-- [React]
-- [JavaScript]
+🎓 Background:
 
-💬 I enjoy discussing education and software development topics, exchanging ideas, and collaborating on new projects. Feel free to reach out to me!
+* Computer Teacher
+* Master's Degree in Computer Science
 
-📫 You can contact me via [erdemsoylu2603@gmail.com] or through my [Social media profile].
+---
+
+## 🚀 What I'm Currently Working On
+
+* Improving my **React development skills**
+* Learning **React Native** to build mobile applications
+* Building and sharing projects on **GitHub**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+HTML • CSS • JavaScript • React • Redux
+
+### Styling
+
+CSS3 • SCSS • Bootstrap • Responsive Design
+
+### Tools
+
+Git • GitHub • VS Code • Chrome DevTools
+
+### Currently Learning
+
+React Native • Advanced React Patterns
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact)
+
+---
+
+## 💡 About Me
+
+* I enjoy **UI design and front-end development**
+* I like building **interactive web applications**
+* I continuously improve myself by **creating projects**
+
+You can find many of my projects on my GitHub profile including **React, JavaScript, and responsive web applications**.
+
+---
+
+## 📫 Contact
+
+📧 Email: erdemsoylu2603@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/erdemsoylu
+
+---
+
+⭐ Always learning, always building.
+
 
 🚀 I'm here to share my passion for coding and technology. Together, we can achieve great things! 👨‍💻
 
