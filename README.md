@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erdem Soylu </h1>
+<h1 align="center">Hi 👋 I'm Erdem Soylu </h1>
 <h3 align="center">Front-End Developer | React Developer | UI Enthusiast</h3>
 
 <p align="center">
@@ -34,14 +34,6 @@ Currently improving my skills and exploring mobile development with React Native
 <p>
 <img src="https://skillicons.dev/icons?i=react" /> 
 React Native
-</p>
-
----
-
-## 🔥 GitHub Activity
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=eses2603&theme=tokyonight" />
 </p>
 
 ---
