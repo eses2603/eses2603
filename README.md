@@ -1,73 +1,79 @@
-# 👋 Hello, I'm a Front-End Developer
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Front-End Developer | React Developer | UI Enthusiast</h3>
 
-I'm a **Front-End Developer** passionate about building modern, responsive and user-friendly web applications.
-
-I enjoy transforming ideas into **clean, interactive interfaces** and continuously improving my skills by building projects and learning new technologies.
-
-🎓 Background:
-
-* Computer Teacher
-* Master's Degree in Computer Science
+<p align="center">
+I build modern, responsive, and user-friendly web applications using JavaScript and React.
+Currently improving my skills and exploring mobile development with React Native.
+</p>
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 About Me
 
-* Improving my **React development skills**
-* Learning **React Native** to build mobile applications
-* Building and sharing projects on **GitHub**
+- 💻 Front-End Developer focused on **React & JavaScript**
+- 🎨 I enjoy building **clean and modern UI designs**
+- 📚 Currently learning **React Native**
+- 🌍 Interested in **remote Front-End opportunities**
+- ⚡ I love turning ideas into real web applications
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-
-HTML • CSS • JavaScript • React • Redux
-
-### Styling
-
-CSS3 • SCSS • Bootstrap • Responsive Design
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
+</p>
 
 ### Tools
-
-Git • GitHub • VS Code • Chrome DevTools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" />
+</p>
 
 ### Currently Learning
-
-React Native • Advanced React Patterns
+<p>
+<img src="https://skillicons.dev/icons?i=react" /> 
+React Native
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact)
-
----
-
-## 💡 About Me
-
-* I enjoy **UI design and front-end development**
-* I like building **interactive web applications**
-* I continuously improve myself by **creating projects**
-
-You can find many of my projects on my GitHub profile including **React, JavaScript, and responsive web applications**.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact
+## 🔥 GitHub Activity
 
-📧 Email: erdemsoylu2603@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/erdemsoylu
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ Always learning, always building.
+## 🌐 Connect With Me
 
+<p>
+<a href="https://www.linkedin.com/in/YOURLINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-🚀 I'm here to share my passion for coding and technology. Together, we can achieve great things! 👨‍💻
+<a href="mailto:YOUREMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+⭐ Feel free to check my repositories and projects!
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/eses2603) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
